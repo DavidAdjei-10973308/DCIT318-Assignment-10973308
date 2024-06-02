@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DCITAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e57e19c4a29fdeb05b89a7e3208496fb08de38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a7d4c624b8de2d9ca45a62d5f41a469f7721db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DCITAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DCITAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
