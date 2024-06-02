@@ -8,7 +8,8 @@ class Program
         {
             Console.WriteLine("Choose an option:");
             Console.WriteLine("1. Calculate Grade");
-            Console.WriteLine("2. Exit");
+            Console.WriteLine("2. Calculate Ticket Price");
+            Console.WriteLine("3. Exit");
             Console.Write("Enter your choice (1-4): ");
             string choiceInput = Console.ReadLine();
 
@@ -20,6 +21,9 @@ class Program
                         CalculateGrade();
                         break;
                     case 2:
+                        CalculateTicketPrice();
+                        break;
+                    case 3:
                         Console.WriteLine("Exiting the program.");
                         return;
                     default:
@@ -79,4 +83,32 @@ class Program
             Console.WriteLine("Error: Invalid input. Please enter a numerical grade.");
         }
     }
+
+    static void CalculateTicketPrice()
+    {
+        Console.Write("Enter your age: ");
+        string ageInput = Console.ReadLine();
+
+        if (int.TryParse(ageInput, out int age))
+        {
+            int ticketPrice;
+
+            if (age <= 12 || age >= 65)
+            {
+                ticketPrice = 7;
+            }
+            else
+            {
+                ticketPrice = 10;
+            }
+
+            Console.WriteLine("The ticket price is: GHC" + ticketPrice);
+        }
+        else
+        {
+            Console.WriteLine("Error: Please enter a numerical age.");
+        }
+    }
+
 }
+
