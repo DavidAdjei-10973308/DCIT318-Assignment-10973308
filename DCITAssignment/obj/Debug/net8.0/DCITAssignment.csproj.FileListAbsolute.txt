@@ -1,0 +1,14 @@
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\bin\Debug\net8.0\DCITAssignment.exe
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\bin\Debug\net8.0\DCITAssignment.deps.json
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\bin\Debug\net8.0\DCITAssignment.runtimeconfig.json
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\bin\Debug\net8.0\DCITAssignment.dll
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\bin\Debug\net8.0\DCITAssignment.pdb
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.AssemblyInfoInputs.cache
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.AssemblyInfo.cs
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.dll
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\refint\DCITAssignment.dll
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.pdb
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\DCITAssignment.genruntimeconfig.cache
+C:\Users\user\VScode\DCIT-Assignment(10973308)\DCITAssignment\obj\Debug\net8.0\ref\DCITAssignment.dll
